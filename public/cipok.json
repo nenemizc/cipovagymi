@@ -1,0 +1,46 @@
+{
+  "cipok": [
+    {
+      "nev": "Nike Air Jordan 1 High OG 'Chicago'",
+      "marka": "Nike",
+      "megjelenes_datuma": "1985-04-01",
+      "eredeti_ar_usd": 65,
+      "magasszaru": true
+    },
+    {
+      "nev": "Adidas Superstar",
+      "marka": "Adidas",
+      "megjelenes_datuma": "1969-01-01",
+      "eredeti_ar_usd": 30,
+      "magasszaru": false
+    },
+    {
+      "nev": "Converse Chuck Taylor All Star",
+      "marka": "Converse",
+      "megjelenes_datuma": "1917-01-01",
+      "eredeti_ar_usd": 6,
+      "magasszaru": true
+    },
+    {
+      "nev": "Nike Air Max 90 'Infrared'",
+      "marka": "Nike",
+      "megjelenes_datuma": "1990-03-26",
+      "eredeti_ar_usd": 110,
+      "magasszaru": false
+    },
+    {
+      "nev": "Vans Old Skool",
+      "marka": "Vans",
+      "megjelenes_datuma": "1977-03-11",
+      "eredeti_ar_usd": 20,
+      "magasszaru": false
+    },
+    {
+      "nev": "Adidas Stan Smith",
+      "marka": "Adidas",
+      "megjelenes_datuma": "1973-01-01",
+      "eredeti_ar_usd": 45,
+      "magasszaru": false
+    }
+  ]
+}
