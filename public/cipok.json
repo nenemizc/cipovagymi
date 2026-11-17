@@ -55,6 +55,14 @@
       "eredeti_ar_usd": 67,
       "magasszaru": true,
       "id": "qy5BQzW-_50"
+    },
+    {
+      "nev": "alam",
+      "marka": "alma",
+      "megjelenes_datuma": "2026-10-29",
+      "eredeti_ar_usd": 13,
+      "magasszaru": false,
+      "id": "z34ZAytQsuU"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
