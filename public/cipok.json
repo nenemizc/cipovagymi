@@ -5,42 +5,57 @@
       "marka": "Nike",
       "megjelenes_datuma": "1985-04-01",
       "eredeti_ar_usd": 65,
-      "magasszaru": true
+      "magasszaru": true,
+      "id": "j5RYCcOy1UY"
     },
     {
       "nev": "Adidas Superstar",
       "marka": "Adidas",
       "megjelenes_datuma": "1969-01-01",
       "eredeti_ar_usd": 30,
-      "magasszaru": false
+      "magasszaru": false,
+      "id": "UvFKvmDF13U"
     },
     {
       "nev": "Converse Chuck Taylor All Star",
       "marka": "Converse",
       "megjelenes_datuma": "1917-01-01",
       "eredeti_ar_usd": 6,
-      "magasszaru": true
+      "magasszaru": true,
+      "id": "S-k7EVMIRmM"
     },
     {
       "nev": "Nike Air Max 90 'Infrared'",
       "marka": "Nike",
       "megjelenes_datuma": "1990-03-26",
       "eredeti_ar_usd": 110,
-      "magasszaru": false
+      "magasszaru": false,
+      "id": "ikoVmcU__0s"
     },
     {
       "nev": "Vans Old Skool",
       "marka": "Vans",
       "megjelenes_datuma": "1977-03-11",
       "eredeti_ar_usd": 20,
-      "magasszaru": false
+      "magasszaru": false,
+      "id": "eFt6jgenKIw"
     },
     {
       "nev": "Adidas Stan Smith",
       "marka": "Adidas",
       "megjelenes_datuma": "1973-01-01",
       "eredeti_ar_usd": 45,
-      "magasszaru": false
+      "magasszaru": false,
+      "id": "8votwmNVIn4"
+    },
+    {
+      "nev": "cipo1",
+      "marka": "marka1",
+      "megjelenes_datuma": "2026-11-28",
+      "eredeti_ar_usd": 67,
+      "magasszaru": true,
+      "id": "qy5BQzW-_50"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
