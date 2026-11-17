@@ -81,7 +81,7 @@ function App() {
           }
         </tbody>
       </table>
-      <h2>felhasználó felvétele</h2>
+      <h2>új cipő felvétele</h2>
       <form onSubmit={felvetel} className='form form-control'>
         <label htmlFor="input_nev">
           Add meg a cipő nevét: <br/>
